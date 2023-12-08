@@ -39,7 +39,7 @@ while true; do
   elif [ "$answer" = "Exit" ]
   then
     echo Thank you!
-    break
+  
   else
     echo 入力が間違えています。Add Password/Get Password/Exit から入力してください。
   fi
